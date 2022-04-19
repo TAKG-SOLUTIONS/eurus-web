@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b9105a0-6063-4263-8c9d-7d4157b24d1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/assets/100070-mail-success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/assets/Studio_Project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/assets/final_62506939b71e711ba522f8ae_10518.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/Market/CoinItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/Market/Coins.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/Market/coins.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/Market/market.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/about/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/about/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/animation/Animation.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/animation/animation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/context/UserAuthContex.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/cryptocurrencies/Cryptocurrencies.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/cryptocurrencies/cryptoApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/cryptocurrencies/cryptocurrencies.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/header/HeaderSocials.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/header/Loging.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/nav/Nav.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/nav/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/preloader/success.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/preloader/world-location.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/preloader/yakkaloader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/preloader/yakkaloader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/register/Register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/register/SignIn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/register/Signup.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/components/register/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurus-website/src/firebase-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/eurus-website/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/eurus-website/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/eurus-website/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/eurus-website/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/eurus-website/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurus-website/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eurus-website" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="27HIJ1y0LvzwDejbe6kq3ZuSr18" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../preloader/React-Loading-Screen-main" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b9105a0-6063-4263-8c9d-7d4157b24d1b" name="Changes" comment="" />
+      <created>1648970510048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648970510048</updated>
+      <workItem from="1648970511255" duration="14908000" />
+      <workItem from="1648995086803" duration="128000" />
+      <workItem from="1649000516505" duration="5013000" />
+      <workItem from="1649126686459" duration="8189000" />
+      <workItem from="1649143238811" duration="5024000" />
+      <workItem from="1649164911462" duration="4826000" />
+      <workItem from="1649206713334" duration="12275000" />
+      <workItem from="1649254025635" duration="2584000" />
+      <workItem from="1649257776751" duration="987000" />
+      <workItem from="1649274760453" duration="3879000" />
+      <workItem from="1649291415176" duration="7480000" />
+      <workItem from="1649381448784" duration="5353000" />
+      <workItem from="1649419851672" duration="2301000" />
+      <workItem from="1649431797826" duration="4833000" />
+      <workItem from="1649575837891" duration="2043000" />
+      <workItem from="1649579704113" duration="11612000" />
+      <workItem from="1649640759083" duration="6285000" />
+      <workItem from="1649684773802" duration="380000" />
+      <workItem from="1649685825098" duration="8440000" />
+      <workItem from="1649727170220" duration="1095000" />
+      <workItem from="1649742333154" duration="4885000" />
+      <workItem from="1649844812163" duration="1302000" />
+      <workItem from="1649898448128" duration="168000" />
+      <workItem from="1649906234538" duration="10886000" />
+      <workItem from="1649992789602" duration="6289000" />
+      <workItem from="1650180170777" duration="3355000" />
+      <workItem from="1650202123058" duration="2854000" />
+      <workItem from="1650205110825" duration="1185000" />
+      <workItem from="1650338829512" duration="6545000" />
+      <workItem from="1650347000282" duration="633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

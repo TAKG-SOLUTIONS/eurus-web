@@ -1,0 +1,37 @@
+.register__container{
+    display:grid;
+    grid-template-columns: 35% 50%;
+    gap: 5%;
+}
+.welcome{
+    font-size: 5rem;
+}
+.register__me-image{
+    overflow: hidden;
+    width:35rem;
+    aspect-ratio: 1/1;
+}
+.rsign{
+    margin-top: -45rem;
+    margin-left: -1rem;
+}
+.rlog{
+    margin-top: -45rem;
+    margin-left: 4rem;
+}
+.p-4 box {
+    border: 1px solid #dfdfdf;
+    background-color: #fff;
+}
+
+.g-btn {
+    width: 100% !important;
+    height: 40px !important;
+    line-height: 40px !important;
+    font-size: 15px !important;
+}
+.g-btn > div,
+.g-btn > div > svg {
+    width: 40px !important;
+    height: 38px !important;
+}

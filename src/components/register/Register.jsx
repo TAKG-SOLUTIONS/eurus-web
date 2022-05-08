@@ -7,6 +7,9 @@ const Register=()=>{
     function SignupClick(){
         navigate('/signup')
     }
+    function SigninClick(){
+        navigate('/signin')
+    }
     return (
     <div className={"container register__container"}>
         <h1 className={"welcome"}>Welcome to Yaka Exchange</h1>
@@ -14,7 +17,7 @@ const Register=()=>{
                 <img src={Yakka}  alt={"welcome"}/>
         </div>
         <div className={"rlog"}>
-            <a className={'btn'}>Logging</a>
+            <a onClick={SigninClick} className={'btn'}>Logging</a>
         </div>
         <div className={"rsign"}>
             <a onClick={SignupClick} className={'btn btn-primary'}>Sign Up</a>

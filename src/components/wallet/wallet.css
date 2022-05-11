@@ -1,0 +1,46 @@
+.box{
+   text-align: center;
+
+}
+.mwallet{
+    margin-top: -31rem;
+    margin-left: 11rem;
+}
+.wh1 {
+    color: #00FF00;
+    text-align: center;
+}
+h4{
+    color: #F6851B;
+
+}
+a {
+    text-decoration: none !important;
+}
+.btnm{
+    width:max-content;
+    display: inline-block;
+    color: #CD6116;
+    padding: 0.75rem 1.2rem ;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid #F6851B;
+    transition: var(--transition);
+    margin: 10rem;
+}
+.btnm:hover{
+    background: var(--color-white);
+    color:var(--color-bg);
+    border-color:transparent;
+}
+.wallet-image{
+    margin-left: 65rem;
+    width: 500px;
+    height: 500px;
+}
+.error{
+    color: #FF0000;
+}
+.accountDisplay{
+    margin-top: -8rem;
+}

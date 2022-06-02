@@ -2,12 +2,20 @@ import React from 'react';
 import "./tradeApi";
 import { createChart ,CrosshairMode} from "lightweight-charts";
 import "./trade.css";
+import {useNavigate} from "react-router-dom";
 
 //const domElement=document.getElementById("tv")
 //const chart = LightweightCharts.createChart(domElement,chartProperties);
 //const chart = createChart(document.body,chartProperties);
 
 const Trade = () => {
+    let navigate=useNavigate();
+    function BuyClick(){
+        navigate('/wallet')
+    }
+    function SellClick(){
+        navigate('/wallet')
+    }
     const log = console.log;
     const chartProperties ={
         width:1450,
@@ -67,8 +75,8 @@ const Trade = () => {
         <div>
             <div>
                 <h1 className="text-dark">Trade</h1>
-                <a className={'btnBuy'}>Buy</a>
-                <a className={'btnSell'}>Sell</a>
+                <a onClick={BuyClick} className={'btnBuy'}>Buy</a>
+                <a onClick={SellClick} className={'btnSell'}>Sell</a>
             </div>
             <div id ="stock-price">
 

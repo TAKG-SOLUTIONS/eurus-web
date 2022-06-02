@@ -9,6 +9,9 @@ const SignIn = () => {
     function SignupClick(){
         navigate('/signup')
     }
+    function SignIn(){
+        navigate('/trade')
+    }
     const[email,setEmail]=useState();
     const[password,setPassword]=useState();
     let disabled = !(email && password)
@@ -25,7 +28,7 @@ const SignIn = () => {
                         <input className="form-control" type="password" id={"password"}  onChange={(event)=>setPassword(event.target.value)} />
                     </div>
                     <div>
-                        <button className={"g-btn btn-outline-success"} disabled={disabled}>Sign In</button>
+                        <button className={"g-btn btn-outline-success"} disabled={disabled} onClick={SignIn} >Sign In</button>
                     </div>
                     <div>
                         <a className="badge bg-primary text-wrap" onClick={SignupClick}>Create an account</a>
